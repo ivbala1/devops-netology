@@ -1,4 +1,2 @@
 # devops-netology
-test messsage
-test message2
-test message3
+в будущем благодаря добавленному .gitignore будут проигнорированы файлы, маски имен которых упомянуты в этом .gitignore 
